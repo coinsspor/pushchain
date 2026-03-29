@@ -23,6 +23,7 @@
 | Version | `v0.0.27` |
 | Genesis | [Download](https://raw.githubusercontent.com/coinsspor/pushchain/refs/heads/main/genesis.json) |
 | Addrbook | [Download](https://github.com/coinsspor/pushchain/blob/main/addrbook.json) |
+| Faucet | https://faucet.push.org |
 
 ## Public Endpoints
 
