@@ -1,7 +1,7 @@
 # Push Chain Testnet Node Installation Guide
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/coinsspor/pushchain/main/logo.png" width="150">
+  <img src="https://raw.githubusercontent.com/coinsspor/pushchain/refs/heads/main/push.jpg" width="150">
 </p>
 
 <p align="center">
